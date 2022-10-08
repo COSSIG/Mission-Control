@@ -10,5 +10,5 @@
 目前没有进行中……等待ing
 
 #### 其他文档翻译
-https://github.com/COSSIG/COSSIG-Translation/blob/main/sources/DevConf-Dojo-Event-Report.md
-等待认领，等待ing
+[DevConf-Dojo-Event-Report][https://github.com/COSSIG/COSSIG-Translation/blob/main/translated/DevConf-Dojo-Event-Report.md]: 已由@turbokernel 完成翻译
+[CentOS-Hyperscale-SIG-conference-recap][https://github.com/COSSIG/COSSIG-Translation/blob/main/sources/CentOS-Hyperscale-SIG-conference-recap.md]: 已由 @turbokernel 申领
