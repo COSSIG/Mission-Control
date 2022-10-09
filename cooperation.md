@@ -3,7 +3,7 @@
 - [x] S1E1 joyce
 - [ ] S1E2 Kital
 - [ ] S1E3 Lia
-- [ ] S1E4 marine
+- [x] S1E4 marine
 - [x] Kital
 
 #### 代码英雄翻译、校对
